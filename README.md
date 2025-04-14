@@ -65,7 +65,7 @@ cd joy-caption-alpha-two-gui-mod
 
 2. Run the automatic setup:
 ```bash
-Joy_run.bat
+install.bat
 ```
 
 ### Manual Installation
